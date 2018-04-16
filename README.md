@@ -5,6 +5,7 @@ My first machine learning algorithm.
 # folders
 
 `./firstPerceptron` => Processing (Java) implementation
+`./firstPerceptronP5` => P5 (javascript) implementation
 
 # references
 
